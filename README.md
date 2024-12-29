@@ -1,0 +1,1 @@
+This is just a calculator created via JS, HTMl, CSS. Pretty simple
